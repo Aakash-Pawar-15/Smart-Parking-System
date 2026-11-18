@@ -1,4 +1,5 @@
-Parkwise – IoT-Based Smart Parking System
+**Parkwise – IoT-Based Smart Parking System**
+
 Parkwise is an IoT-based smart parking prototype built using an ESP32 and four IR sensors. It monitors parking-slot occupancy and displays live availability through a web dashboard hosted directly by the ESP32.
 
 The dashboard shows the status of each slot, the total number of occupied and available spaces, and a mobile-camera stream area for parking surveillance.
